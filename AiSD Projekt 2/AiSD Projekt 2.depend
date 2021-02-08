@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1612793395 source:e:\wyk³ady i tym podobne\algorytmy\aisd projekt 2\main.cpp
+	<iostream>
+	<fstream>
+	<iterator>
+	<iomanip>
+	<limits.h>
+	<cstdlib>
+	<time.h>
+	<vector>
+	<chrono>
+
